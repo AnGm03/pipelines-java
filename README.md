@@ -1,4 +1,4 @@
-https://dev.azure.com/angiegimo/TI/_apis/build/status/AnGm03.pipelines-java?branchName=master
+[![Build Status](https://dev.azure.com/angiegimo/TI/_apis/build/status/AnGm03.pipelines-java?branchName=master)](https://dev.azure.com/angiegimo/TI/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
